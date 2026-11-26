@@ -1,0 +1,2 @@
+# test samples must stay byte-exact: line endings, tabs and trailing whitespace are what they test
+tests/samples/** -text
